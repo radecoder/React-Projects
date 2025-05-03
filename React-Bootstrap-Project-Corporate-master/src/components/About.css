@@ -1,0 +1,4 @@
+.about-page header {
+    background-image: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../assets/images/img-hero2.jpg);
+  height: 70vh;  
+}
